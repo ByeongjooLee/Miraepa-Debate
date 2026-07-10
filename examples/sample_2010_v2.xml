@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  합성 예시 (Synthetic sample). 저작권과 무관한 가상의 비평문이며,
+  파이프라인 동작 확인 및 스키마 구조 예시 용도로만 제공한다.
+  등장 인물·작품·매체명은 모두 가상이다.
+  파일명 규칙: 저자_제목_매체_연도_v2.xml  (로더가 연도를 파싱)
+-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt><title>담화의 예시</title><author>김담론</author></titleStmt>
+      <sourceDesc><p>가상 매체 『예시문예』, 2010.</p></sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>담화의 예시</head>
+        <p>
+          <s><persName role="critic">김담론</persName>은 <date when="2010">2010</date>년의 젊은 시를 <term type="movement">가상파</term>라 명명한다.</s>
+          <s>그는 <persName role="poet">이가상</persName>의 <title level="a" type="poem">유리의 방</title>을 두고 <quote type="direct" genre="poet">"빛이 모서리에서 접힌다"</quote>라고 인용한다.</s>
+          <s><interp value="affirmative" ana="미학">이 시의 감각은 확실히 새롭다.</interp></s>
+          <s>그러나 <persName role="critic">박반론</persName>은 <interp value="critical" ana="문학관">이러한 명명이 실체 없는 유행에 불과하다고 비판한다.</interp></s>
+          <s>요컨대 <term type="concept">명명</term>을 둘러싼 <term type="concept">논쟁</term>은 시 자체가 아니라 그 이름을 향한다.</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

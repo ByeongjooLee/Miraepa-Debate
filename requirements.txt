@@ -1,0 +1,2 @@
+# CADS 분석 의존성 (그 외는 Python 표준 라이브러리)
+kiwipiepy>=0.17
