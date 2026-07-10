@@ -22,6 +22,8 @@ data/
 *_report.txt
 *.html
 !docs/**/*.html
+# 공개 승인된 발췌 1건만 예외 (문서당 긍부 각 3문장·출처·고지 포함)
+!supplementary/interp_excerpt_posneg3.html
 
 # ── 원고 ─────────────────────────────────────────────────
 논문_*.md

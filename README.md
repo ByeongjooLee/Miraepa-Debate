@@ -89,6 +89,11 @@ python scripts/analysis/prosody_demo.py
 재현 가능하되, 원자료를 이용한 결과 전체의 재현에는 제약이 따른다.** 파이프라인 동작
 확인을 위해 저작권과 무관한 합성 예시(`examples/sample_2010_v2.xml`) 한 건을 제공한다.
 
+다만 평가(interp) 판정의 근거를 독자가 확인할 수 있도록, 각 비평문에서 **문서당 긍정·부정
+각 최대 3문장**만 출처와 함께 발췌한 [`supplementary/interp_excerpt_posneg3.html`](supplementary/interp_excerpt_posneg3.html)
+을 제공한다(개별 저작물 대비 소량 발췌·출처 명시·삭제 요청 안내 포함). 상세는
+[`supplementary/README.md`](supplementary/README.md) 참조.
+
 ## 방법 개요
 
 `docs/method.md` 참조. 핵심 원칙: 모든 공기·키워드 수치는 **문서빈도(df)와 함께** 읽어
