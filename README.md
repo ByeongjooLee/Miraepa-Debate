@@ -1,7 +1,7 @@
-# KOR-criticism-CADS
+# Miraepa-Debate
 
-**한국 현대문학비평의 코퍼스 기반 담화분석(CADS) 도구**
-Corpus-Assisted Discourse Studies for Korean literary criticism.
+**기계로 읽는 '미래파' 논쟁 — 한국 현대문학비평의 코퍼스 기반 담화분석(CADS) 도구**
+Corpus-Assisted Discourse Studies for Korean literary criticism (the 2000s *Miraepa* debate).
 
 TEI로 태깅된 비평 코퍼스를 입력받아, 공기어(collocation)·키워드성(keyness)·명명 분산(naming dispersion)·담화 운율(discourse prosody)·진영별 대조(camp contrast)를 계산하고, 거시 통계와 미시 정독(KWIC)을 오가며 하나의 문학 논쟁을 분석한다. 논문 「기계로 읽는 '미래파' 논쟁」(2000년대 한국 시단의 미래파 논쟁 사례연구)의 분석 코드다.
 
