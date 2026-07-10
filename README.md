@@ -103,10 +103,6 @@ python scripts/analysis/prosody_demo.py
 
 관련 논문은 투고/게재 예정이다. 확정 시 서지 정보를 추가한다.
 
-## 라이선스
-
-코드는 [MIT License](LICENSE). 분석 대상 원자료에는 적용되지 않는다(비포함).
-
 ---
 
 ### English (brief)
@@ -117,4 +113,4 @@ produced by the upstream tagger
 and computes collocation, keyness, naming dispersion, discourse prosody, and camp-based
 contrast, always reading frequencies together with **document frequency (df)** to expose
 single-document skew. The criticism corpus itself is **copyrighted and not included**; a
-single synthetic example is provided so the pipeline can be run. MIT-licensed (code only).
+single synthetic example is provided so the pipeline can be run.
